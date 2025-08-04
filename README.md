@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Contenido del README.md
-readme_content = """
 # HR Analytics
 
 Este repositorio contiene un notebook desarrollado como parte del curso de **Data Analytics** en **WE Educación Ejecutiva**, cuyo objetivo principal es analizar patrones relacionados con las promociones internas dentro de una empresa, utilizando datos proporcionados en clase.
@@ -43,10 +39,3 @@ El propósito de este trabajo es identificar y explorar factores que pueden infl
 ## 🧑‍🏫 Curso
 
 Trabajo desarrollado para el curso de **Data Analytics** de **WE Educación Ejecutiva**.
-"""
-
-# Guardar como archivo README.md
-readme_path = Path("/mnt/data/README_HR_Analytics.md")
-readme_path.write_text(readme_content.strip())
-
-readme_path.name
