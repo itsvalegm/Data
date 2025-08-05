@@ -6,8 +6,8 @@ Este repositorio contiene un notebook desarrollado como parte del curso de **Dat
 
 ## 👥 Autores
 
-- Jheny Jorge Zelaya  
-- Sofía Solís Quevedo  
+- Jheny Jorge Zelaya
+- @SofiaSolisQ  
 - Eduardo Alonso Mamani Hernandez  
 - Gino Vasquez Delgado  
 - Lizbeth Cristina Centeno Saire  
